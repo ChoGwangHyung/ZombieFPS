@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05622407b657f99428c71d312f2700d0, type: 3}
+  m_Name: Enemy_AK
+  m_EditorClassIdentifier: 
+  weaponName: AK
+  damage: 10
+  range: 50
+  speed: 200
+  accuracy: 0.005
+  fireCooltime: 2
+  reloadTime: 1
+  recoilActionForce: 0
+  maxBulletInMagazine: 30
+  maxBulletInBag: 1000
